@@ -6,3 +6,12 @@ Play from mobile devices or "[use Chrome developer tools to see as mobile device
 ---
 
 Seen on SoloLearn.com - &copy; Paul Caron
+
+
+---
+
+<p align="center">
+    <a href="https://ko-fi.com/L3L31N4GV" target="_blank">
+            <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
+    </a>
+</p>
